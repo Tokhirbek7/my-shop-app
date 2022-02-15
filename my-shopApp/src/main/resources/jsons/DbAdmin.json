@@ -1,0 +1,36 @@
+{
+  "a": {
+    "fullName": "Admin Adminov",
+    "username": "a",
+    "password": "1",
+    "balance": 0.0,
+    "role": "ADMIN",
+    "id": "4e0ecb76-7c41-4da7-b839-7339b1cc95e4",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 15,
+        "minute": 40,
+        "second": 15,
+        "nano": 321703500
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 9
+      },
+      "time": {
+        "hour": 15,
+        "minute": 40,
+        "second": 15,
+        "nano": 322702600
+      }
+    }
+  }
+}

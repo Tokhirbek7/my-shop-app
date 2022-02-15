@@ -1,0 +1,38 @@
+{
+  "is": {
+    "isActive": true,
+    "myCart": [],
+    "fullName": "Islomjon",
+    "username": "is",
+    "password": "i1s2",
+    "balance": 10096.672,
+    "role": "CUSTOMER",
+    "id": "4a0cb6d2-45be-43ed-85a7-92339f5bbeda",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 13
+      },
+      "time": {
+        "hour": 22,
+        "minute": 1,
+        "second": 56,
+        "nano": 174241400
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 13
+      },
+      "time": {
+        "hour": 22,
+        "minute": 1,
+        "second": 56,
+        "nano": 174241400
+      }
+    }
+  }
+}

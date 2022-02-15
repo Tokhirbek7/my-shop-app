@@ -1,0 +1,188 @@
+[
+  {
+    "name": "White",
+    "code": "8291J",
+    "id": "c584214e-0dff-41e9-8308-6aa2df7d56a2",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 14
+      },
+      "time": {
+        "hour": 10,
+        "minute": 55,
+        "second": 26,
+        "nano": 595587700
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 14
+      },
+      "time": {
+        "hour": 10,
+        "minute": 55,
+        "second": 26,
+        "nano": 595587700
+      }
+    }
+  },
+  {
+    "name": "Black",
+    "code": "7908Y",
+    "id": "8cae3ff3-8df0-43f1-9190-6ec1112870f9",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 14
+      },
+      "time": {
+        "hour": 10,
+        "minute": 55,
+        "second": 44,
+        "nano": 197977300
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 14
+      },
+      "time": {
+        "hour": 10,
+        "minute": 55,
+        "second": 44,
+        "nano": 197977300
+      }
+    }
+  },
+  {
+    "name": "Yellow",
+    "code": "4833K",
+    "id": "0debb85f-8673-4f88-85f2-46231c451ed4",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 14
+      },
+      "time": {
+        "hour": 10,
+        "minute": 55,
+        "second": 56,
+        "nano": 939829600
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 14
+      },
+      "time": {
+        "hour": 10,
+        "minute": 55,
+        "second": 56,
+        "nano": 939829600
+      }
+    }
+  },
+  {
+    "name": "Green",
+    "code": "3288N",
+    "id": "7611a558-565a-43ee-be6a-8c96a68d6bf8",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 14
+      },
+      "time": {
+        "hour": 10,
+        "minute": 56,
+        "second": 4,
+        "nano": 360454700
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 14
+      },
+      "time": {
+        "hour": 10,
+        "minute": 56,
+        "second": 4,
+        "nano": 360454700
+      }
+    }
+  },
+  {
+    "name": "Blue",
+    "code": "6190D",
+    "id": "1c3a576c-2e9e-4829-8bc9-a7038e219c9f",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 14
+      },
+      "time": {
+        "hour": 10,
+        "minute": 56,
+        "second": 10,
+        "nano": 400466900
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 14
+      },
+      "time": {
+        "hour": 10,
+        "minute": 56,
+        "second": 10,
+        "nano": 400466900
+      }
+    }
+  },
+  {
+    "name": "Purple",
+    "code": "6476X",
+    "id": "7794b7cc-b431-4b80-adb1-23825124ff6c",
+    "createdAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 14
+      },
+      "time": {
+        "hour": 10,
+        "minute": 56,
+        "second": 38,
+        "nano": 845047100
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2021,
+        "month": 12,
+        "day": 14
+      },
+      "time": {
+        "hour": 10,
+        "minute": 56,
+        "second": 38,
+        "nano": 845047100
+      }
+    }
+  }
+]
